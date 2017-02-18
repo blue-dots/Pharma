@@ -203,22 +203,23 @@ float: left;
 }
 .welcomeMessage {
     float: left;
-    width: 90%;
-    margin: 6px;
+    width: calc(100% - 110px);
+    margin-left: 10px;
     text-align: justify;
     padding: 3px;
 }
 .textHeadding{
-
     float: left;
-    margin: 1px 53px;
     border-bottom: 1px solid #d4d4d4;
-    width: 88%;
-}
-.textHeadding {
     font-size: 28px;
-    margin: 0px 17px;
-    float: left;
+    width: 100%;
+}
+
+#welcomePage {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 15px;
 }
 
 .containerBody {
@@ -232,12 +233,9 @@ float: left;
     width: 100%;
     padding: 0;
 }
-.welcomeImage {
-    float: left;
-    position: relative;
-    left: -29px;
-    margin-top: 13px;
-}
 .welcomeImageMain {
-    margin: 19px 0px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 12px;
 }
