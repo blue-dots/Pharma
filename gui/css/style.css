@@ -3,17 +3,10 @@
     width: 100%;
     margin: auto;
 }
-/*.carousel-inner > .item {
-    position: relative;
-}*/
-
-.textDecorator {
-    position: absolute;
-    left: 20px;
-    height: 100px;
-    width: 100px;
-    background: #ccc;
-    color: #000;
+.carousel-inner > .item .layer {
+    background: #000;
+    opacity: 0.1;
+    filter: blur(10px);
 }
 
 .img-set{
