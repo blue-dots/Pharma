@@ -224,19 +224,6 @@ float: left;
     overflow: hidden;
 }
 
-.leftPanel {
-    width: 25%;
-    height: 100%;
-    float: left;
-    min-height: 500px;
-}
-
-.rightPanel {
-    width: 75%;
-    height: 100%;
-    float: left;
-}
-
 .sectionContainer {
     width: 100%;
     padding: 0;
