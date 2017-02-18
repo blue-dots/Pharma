@@ -36,6 +36,7 @@ float: left;
     padding: 37px 15px 5px;
     font: normal 14px/20px "Roboto Condensed",sans-serif;
     text-transform: uppercase;
+    color: blue;
 }
 #menu-main {
    /* background-color: grey;*/
@@ -202,7 +203,7 @@ float: left;
 }
 .welcomeMessage {
     float: left;
-    width: 65%;
+    width: 90%;
     margin: 6px;
     text-align: justify;
     padding: 3px;
@@ -212,11 +213,12 @@ float: left;
     float: left;
     margin: 1px 53px;
     border-bottom: 1px solid #d4d4d4;
-    width: 64%;
+    width: 88%;
 }
 .textHeadding {
     font-size: 28px;
-    margin: 2px 17px;
+    margin: 0px 17px;
+    float: left;
 }
 
 .containerBody {
@@ -229,4 +231,13 @@ float: left;
 .sectionContainer {
     width: 100%;
     padding: 0;
+}
+.welcomeImage {
+    float: left;
+    position: relative;
+    left: -29px;
+    margin-top: 13px;
+}
+.welcomeImageMain {
+    margin: 19px 0px;
 }
