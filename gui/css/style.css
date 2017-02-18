@@ -114,21 +114,40 @@ float: left;
     margin-top: 9px;
     position: relative;
     float: left;
-    width: 400px;
+    width: 514px;
+    height: 271px;
+    border-left: 1px solid #ccc;
+    padding-left: 20px;
 }
 .enquieryForm {
-    float: right;
-    width: 471px;
+    float: left;
+    width: 451px;
     margin-top: 9px;
     position: relative;
-
 }
 .fname1,.email1,.message1 {
     float: left;
     width: 90px;
     height: 45px;
     border: none;
-}.fname,.email,.message {
+}
+
+.formField input{
+    border: 1px solid #ccc;
+    width: 400px;
+    height: 43px;
+    padding: 8px;
+    font-size: 15px;
+}
+
+.formField textarea{
+    border: 1px solid #ccc;
+    width: 400px;
+    padding: 8px;
+    font-size: 15px;
+}
+
+.fname,.email,.message {
     float: left;
      width: 90px;
      height: 45px;
@@ -226,4 +245,12 @@ float: left;
     height: 100px;
     float: left;
     margin-top: 12px;
+}
+.image-icon-enqry{
+    height: 100px;
+    width: 100px;
+    background-image: url("../img/enquiry-icon-png-13.png");
+    background-repeat: no-repeat;
+    background-size: 100px;
+    float: left;
 }
