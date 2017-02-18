@@ -3,22 +3,24 @@
  */
 $('document').ready(function () {
 
-    var $sectionContainer1 = $('<div class="container sectionContainer1"><span class="hotproCls">Hot Products</span></div>');
-    var $sectionContainer = $('<div class="container sectionContainer"></div>');
+    var $sectionContainer = $('<div class="container sectionContainer"><span class="hotproCls">Hot Products</span></div>');
+    var $sectionBody = $('<div class="container sectionBody"></div>');
     for (var i in aHotProducts) {
         var $thumbnail = getThumbnailDOM(aHotProducts[i]);
-        $sectionContainer.append($thumbnail);
+        $sectionBody.append($thumbnail);
     }
-    $sectionContainer1.append($sectionContainer);
-    $('#thumbnailWrapper').append($sectionContainer1);
-    var $sectionContainerSecond2 = $('<div class="container sectionContainer2"><span class="newproCls">New Products</span></div>');
-    var $sectionContainerSecond = $('<div class="container sectionContainer"></div>');
+    $sectionContainer.append($sectionBody);
+    $('#thumbnailWrapper').append($sectionContainer);
+
+
+    $sectionContainer = $('<div class="container sectionContainer"><span class="newproCls">New Products</span></div>');
+    $sectionBody = $('<div class="container sectionBody"></div>');
     for (var i in aNewProducts) {
         var $thumbnail = getThumbnailDOM(aNewProducts[i]);
-        $sectionContainerSecond.append($thumbnail);
+        $sectionBody.append($thumbnail);
     }
-    $sectionContainerSecond2.append($sectionContainerSecond);
-    $('#thumbnailWrapper').append($sectionContainerSecond2);
+    $sectionContainer.append($sectionBody);
+    $('#thumbnailWrapper').append($sectionContainer);
 });
 
 function getThumbnailDOM(oProduct) {

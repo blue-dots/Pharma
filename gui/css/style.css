@@ -1,3 +1,8 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
     width: 100%;
@@ -180,8 +185,8 @@ float: left;
     margin: 3px 0px;
 }
 #myCarousel {
-    width: 60%;
-    float: RIGHT;
+    width: 80%;
+    margin: 0 auto;
 }
 #textContent{
      width:40%;
@@ -191,9 +196,8 @@ float: left;
     margin-top: 1px;
  }
 
-.container.sectionContainer{
-    margin: 14px 0px;
-}
+.container.sectionBody {
+    margin: 14px 0px;}
 .welcomeMessage {
     float: left;
     width: 65%;
@@ -211,4 +215,29 @@ float: left;
 .textHeadding {
     font-size: 28px;
     margin: 2px 17px;
+}
+
+.containerBody {
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.leftPanel {
+    width: 25%;
+    height: 100%;
+    float: left;
+    min-height: 500px;
+}
+
+.rightPanel {
+    width: 75%;
+    height: 100%;
+    float: left;
+}
+
+.sectionContainer {
+    width: 100%;
+    padding: 0;
 }
