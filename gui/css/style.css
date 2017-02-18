@@ -197,7 +197,9 @@ float: left;
  }
 
 .container.sectionBody {
-    margin: 14px 0px;}
+    margin: 14px 0px;
+    width: 100%;
+}
 .welcomeMessage {
     float: left;
     width: 65%;
