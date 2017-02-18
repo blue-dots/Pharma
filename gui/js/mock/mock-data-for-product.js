@@ -2,7 +2,7 @@
  * Created by admin on 18/02/2017.
  */
 
-var aProducts = [
+var aHotProducts = [
     {
         id: "prod1",
         label: "Vita-AB Oral Liquid",
@@ -33,6 +33,8 @@ var aProducts = [
         label: "Flox Oral Solution",
         image: "img/old-ui-img/prod6.jpeg"
     },
+];
+var aNewProducts = [
     {
         id: "prod4",
         label: "ATN-3G Powder",
