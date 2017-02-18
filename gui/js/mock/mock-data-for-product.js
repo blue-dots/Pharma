@@ -33,6 +33,11 @@ var aHotProducts = [
         label: "Flox Oral Solution",
         image: "img/old-ui-img/prod6.jpeg"
     },
+    {
+        id: "prod3",
+        label: "Uron-AB Bolus",
+        image: "img/old-ui-img/prod3.jpeg"
+    }
 ];
 var aNewProducts = [
     {

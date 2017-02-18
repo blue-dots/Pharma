@@ -65,3 +65,33 @@ strong {
     border-bottom-left-radius: 1px;
     border-bottom-right-radius: 1px;
 }
+
+.sectionHeader{
+    margin: 6px;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+
+.sectionBodyContainer {
+    float: left;
+    width: calc(100% - 110px);
+}
+
+.productImageLogo {
+    height: 110px;
+    width: 110px;
+    background-repeat: no-repeat;
+    float: left;
+    background-size: 103px;
+    margin-top: -2px;
+}
+
+.hotProductImage {
+    background-image: url("../img/botanical-icon.png");
+}
+
+.newProductImage {
+    background-image: url("../img/nutritional-icon.png");
+}

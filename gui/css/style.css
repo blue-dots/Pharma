@@ -14,19 +14,6 @@ html, body {
     filter: blur(10px);
 }
 
-.hotproCls{
-    margin: 0px 14px;
-    font-weight:bold;
-    text-transform: capitalize;
-    font-size: medium;
-}
-.newproCls{
-     margin: 0px 14px;
-     font-weight:bold;
-     text-transform: capitalize;
-    font-size: medium;
-}
-
 .img-set{
 float: left;
 }
@@ -198,8 +185,8 @@ float: left;
  }
 
 .container.sectionBody {
-    margin: 14px 0px;
     width: 100%;
+    padding: 0;
 }
 .welcomeMessage {
     float: left;
@@ -232,6 +219,7 @@ float: left;
 .sectionContainer {
     width: 100%;
     padding: 0;
+    margin-top: 15px;
 }
 .welcomeImageMain {
     width: 100px;
