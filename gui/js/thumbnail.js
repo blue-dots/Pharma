@@ -1,7 +1,7 @@
 /**
  * Created by admin on 18/02/2017.
  */
-$('document').ready(function () {
+function createThumbnails() {
 
     var $sectionContainer = $('<div class="container sectionContainer"><span class="hotproCls">Hot Products</span></div>');
     var $sectionBody = $('<div class="container sectionBody"></div>');
@@ -21,7 +21,7 @@ $('document').ready(function () {
     }
     $sectionContainer.append($sectionBody);
     $('#thumbnailWrapper').append($sectionContainer);
-});
+}
 
 function getThumbnailDOM(oProduct) {
    // alert(oProduct);

@@ -14,11 +14,12 @@
 
     <script src="js/mock/mock-data-for-product.js" type="text/javascript"></script>
     <script src="js/thumbnail.js" type="text/javascript"></script>
+    <script src="js/app.js" type="text/javascript"></script>
 
 </head>
 <body>
 <div class="container" style="width: 100%;background: #f9f9f9"> <!--Header-->
-    <div class="headerLogo">
+    <div class="headerLogo" id="headerLogo">
         <div class="img-set">
             <img src="img/12505-comp-image.png">
         </div>
@@ -33,17 +34,11 @@
         <div class="mainMenu">
             <div id="menu-main">
                 <ul>
-                    <li>Home</li>
-                    <li>About Us</li>
-                    <li>Veterinary Products
-                        <!--   <ul>
-                               <li>Veterinary Products</li>
-                               <li>Oral Veterinary Suspensions</li>
-                               <li>l</li>
-                           </ul>-->
-                    </li>
-                    <li>Current Jobs</li>
-                    <li>Contact Us</li>
+                    <li class="link" data-id="headerLogo">Home</li>
+                    <li class="link" data-id="welcomePage">About Us</li>
+                    <li class="link" data-id="thumbnailWrapper">Veterinary Products</li>
+                    <li class="link" data-id="">Current Jobs</li>
+                    <li class="link" data-id="contact">Contact Us</li>
                 </ul>
             </div>
             <div class="searchBarMenu">
@@ -111,7 +106,7 @@
 </div>
 <div class="container ">
     <div class="row">
-        <div class="welcomeImageMain">
+        <div class="welcomeImageMain" id="welcomePage">
             <div class="welcomeImage">
                 <img src="img/Vision_icon.png" style=" height: 100px;width: 101px; float: left;">
 
@@ -142,7 +137,7 @@
 
     <div class="container "> <!--Contact Info-->
         <div class="row">
-            <div class="contact">
+            <div id="contact" class="contact">
                 <div class="container ">
                     <div class="conMain">
                         <span style="float: left;"><img src="img/contactpageIcon5.png"></span></span><p
