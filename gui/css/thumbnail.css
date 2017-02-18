@@ -11,8 +11,8 @@
     height: 185px;
     width: 200px;
     float: left;
-    margin-right: 15px;
     padding: 0;
+    margin: 10px 7px;
 }
 
 .thumbnailContainer .thumbnailImage {
@@ -29,6 +29,10 @@
     width: auto;
     height: auto;
     margin: 0 auto;
+}
+strong {
+    font-weight: bold !important;
+    font-size: 13px !important;
 }
 
 .thumbnailLabel {

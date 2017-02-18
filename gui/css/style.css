@@ -191,6 +191,24 @@ float: left;
     margin-top: 1px;
  }
 
-.container.sectionContainer {
-    margin: 8px 0px;
+.container.sectionContainer{
+    margin: 14px 0px;
+}
+.welcomeMessage {
+    float: left;
+    width: 65%;
+    margin: 6px;
+    text-align: justify;
+    padding: 3px;
+}
+.textHeadding{
+
+    float: left;
+    margin: 1px 53px;
+    border-bottom: 1px solid #d4d4d4;
+    width: 64%;
+}
+.textHeadding {
+    font-size: 28px;
+    margin: 2px 17px;
 }
