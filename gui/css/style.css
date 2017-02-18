@@ -1,0 +1,88 @@
+.img-set{
+float: left;
+}
+.call-set{
+    float: right;
+    padding: 37px 15px 5px;
+    font: normal 14px/20px "Roboto Condensed",sans-serif;
+    text-transform: uppercase;
+}
+#menu-main {
+   /* background-color: grey;*/
+    position: relative;
+    float: left;
+    margin-top: 1%;
+}
+#menu-main ul {
+
+    list-style-type: none;
+    position: relative;
+}
+#menu-main ul li {
+    display: inline-block;
+    font-size: 15px;
+    font-family: serif;
+    padding: 5px 10px;
+    cursor: pointer;
+
+}
+#menu-main ul li:hover {
+    background-color: #686868;
+    border-radius: 2px;
+}
+#menu-main ul li ul {
+    display: none;
+    position: absolute;
+}
+#menu-main ul li:hover ul {
+    display: block;
+}
+#menu-main ul li ul {
+    background: black;
+    padding: 2px;
+}
+#menu-main ul li ul li {
+    display: block;
+}
+.headerLogo{
+    float: left;
+    width: 100%;
+}
+.mainMenu{
+   float: left;
+    width: 100%;
+    background: linear-gradient(13deg, #343434, #909090);
+    color: white;
+}
+.searchBarMenu{
+    float: right;
+    margin-top: 10px;
+}
+#search_query_top {
+    display: inline-block;
+    padding: 5px 10px 3px 13px;
+    height: 29px;
+    border: 1px solid gray;
+    background: none;
+    font-size: 11px;
+}
+#searchBarMenu .btn.button-search {
+    background: none;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: none;
+    color: white;
+    width: 39px;
+    text-align: center;
+    padding: 0;
+    height: 29px;
+}
+#searchbox {
+    float: left;
+    width: 100%;
+    border: none;
+    position: relative;
+    padding-right: 39px;
+}
