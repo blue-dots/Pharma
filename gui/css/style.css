@@ -3,6 +3,18 @@
     width: 100%;
     margin: auto;
 }
+/*.carousel-inner > .item {
+    position: relative;
+}*/
+
+.textDecorator {
+    position: absolute;
+    left: 20px;
+    height: 100px;
+    width: 100px;
+    background: #ccc;
+    color: #000;
+}
 
 .img-set{
 float: left;
@@ -161,3 +173,14 @@ float: left;
     width: 100%;
     margin: 3px 0px;
 }
+#myCarousel {
+    width: 60%;
+    float: RIGHT;
+}
+#textContent{
+     width:40%;
+     float: left;
+    border: 2px solid;
+    height: 267px;
+    margin-top: 1px;
+ }
