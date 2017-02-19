@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>atnbiopharma.com</title>
+    <title>Atnbiopharma</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,7 +15,7 @@
     <script src="js/mock/mock-data-for-product.js" type="text/javascript"></script>
     <script src="js/thumbnail.js" type="text/javascript"></script>
     <script src="js/app.js" type="text/javascript"></script>
-
+    <link rel="icon" href="img/tabIcon.png" type="image/x-icon"/>
 </head>
 <body>
 <div class="container" style="width: 100%;background: #f9f9f9"> <!--Header-->
@@ -126,10 +126,9 @@
     </div>
 </div>
 
-<div class="container " style="width: 100%">   <!--About Page-->
+<div class="container " style="width: 100%">   <!--Welcome -->
     <div class="welcomeContainer"  id="aboutUs">
-        <div class="welcomeImageMain aboutUsIcon">
-        </div>
+        <div class="welcomeImageMain aboutUsIcon"></div>
 
         <div class="welcomeMessage">
             <div class="textHeadding">
@@ -167,57 +166,71 @@
 
 
 
-<div class="containerBody">
+<div class="container " style="width: 100%">   <!--Contact Page-->
 
-    <div id="thumbnailWrapper"></div> <!--Thumbnails-->
+    <div class="containerBody">
+        <div id="thumbnailWrapper"></div> <!--Thumbnails-->
+        <div id="contact" class="contact">
+                <div class="mainTagIconInput">Contact Us</div>
+                <div class="image-icon-enqry"></div>
+                <div class="enquieryForm">
+                    <div class="enquiryRow">
+                        <!--  <div class="fname">First Name</div>-->
+                        <div class="formField fname1"><input type="text"
+                                                             id="firstname" placeholder="First Name"></div>
+                    </div>
+                    <div class="enquiryRow">
+                        <div class="formField email1">
+                            <input type="text" id="email" placeholder="Email Id"></div>
+                    </div>
+                    <div class="enquiryRow">
+                        <div class="formField email1">
+                            <input type="text" id="mobile" placeholder="Contact Number"></div>
+                    </div>
+                    <div class="enquiryRow">
 
-    <div class="container "> <!--Contact Info-->
-        <div class="row">
-            <div id="contact" class="contact">
-                <div class="container ">
-                    <div class="image-icon-enqry"></div>
-                    <div class="enquieryForm">
-                        <div class="enquiryRow">
-                            <!--  <div class="fname">First Name</div>-->
-                            <div class="formField fname1"><input type="text"
-                                                       id="firstname" placeholder="First Name"></div>
-                        </div>
-                        <div class="enquiryRow">
-                            <div class="formField email1">
-                                <input type="text" id="email" placeholder="Email Id"></div>
-                        </div>
-                        <div class="enquiryRow">
-                            <div class="formField email1">
-                                <input type="text" id="mobile" placeholder="Contact Number"></div>
-                        </div>
-                        <div class="enquiryRow">
-
-                            <div class="formField formTextArea"><textarea rows="4" cols="20"
-                                                                          placeholder="Message">
-</textarea></div>
-                        </div>
-                        <div class="enquiryRow">
-                            <div class="message3">Submit</div>
+                        <div class="formField formTextArea">
+                                    <textarea rows="4" cols="20" placeholder="Message"></textarea>
                         </div>
                     </div>
-                    <div class="conMain">
-                        <span style="float: left;margin: 0px 23px;"><img src="img/contactpageIcon5.png"></span></span><p
-                            style="font-weight: bold;font-size: medium;margin-left: 49px;"> Atnbiopharma </p>
-                        <p style="font-weight: bold;font-size: medium;   margin: 0px 53px;"> Mr. Manoj Biradar</p>
-                        <p style="margin: 0px 76px;"> Sarve No.171/1/2, Shreenath Wearing Housing Company,</br> Near Arco Transport,</br>
-                            Phursungi,
-                            Maharashtra - 412308, India</br>
-                            Mobile : +91-9096229861, +91-9766540813</br>
-                            Email Address : atnbiopharmapune@gmail.com</br>
-                            Alternate Email ID : tbiradar16@gmail.com</p>
+                    <div class="enquiryRow">
+                        <div class="message3">Submit</div>
+                    </div>
+                </div>
+                <div class="conMain">
+                    <div class="userInfo">
+                        <div class="imgUser"></div>
+                        <div class="userLabel">Mr. Manoj Biradar</div>
+                    </div>
+                    <div class="addMob">
+                        <div class="mainImageAdd">
+                            <div class="imgAddress"></div>
+                            <div class="sadress"> Sarve No.171/1/2, Shreenath Wearing Housing Company,Near Arco
+                                Transport,
+                                Phursungi,
+                                Maharashtra - 412308, India
+                            </div>
+                        </div>
+                        <div class="mainImageMob">
+                            <div class="imgMobile"></div>
+                            <div class="mobNo">
+                                <div class="mobileNumber">+91-9096229861</div>
+                                <div class="mobileNumber">+91-9766540813</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="emailMain">
+                        <div class="imgEmail"></div>
+                        <div class="emailName">atnbiopharmapune@gmail.com</div>
+                        <div>tbiradar16@gmail.com</div>
+                    </div>
 
                 </div>
             </div>
-        </div>
-
-    </div>  <!--Contact Us-->
+    </div>
+    <!--Contact Us-->
 </div>
-
 
 </body>
 </html>

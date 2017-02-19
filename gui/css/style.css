@@ -98,18 +98,19 @@ float: left;
     border: none;
     position: relative;
     padding-right: 39px;
-}.contact {
-     float: left;
-     width: 100%;
-     text-align: left;
-     font-style: normal;
-     font-family: serif;
+}
+
+.contact {
+    min-height: 500px;
+    width: 100%;
+    position: relative;
+    padding: 20px;
  }
 .conMain {
     margin-top: 9px;
     position: relative;
     float: left;
-    width: 514px;
+    width: 572px;
     height: 271px;
     border-left: 1px solid #ccc;
     padding-left: 20px;
@@ -259,4 +260,93 @@ float: left;
     background-repeat: no-repeat;
     background-size: 100px;
     float: left;
+    margin-left: 12px;
+}
+.mainTagIconInput {
+    border-bottom: 1px solid #ccc;
+    width: 91%;
+    margin: 8px 115px;
+    float: left;
+    font-weight: 500;
+    font-size: 20px;
+}
+.addMob {
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.imgAddress {
+    float: left;
+    background-image: url("../img/contactpageIcon1.png");
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px
+}
+.sadress {
+    float: left;
+    width: 350px;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 0px 9px;
+}
+
+.imgMobile {
+    float: left;
+    background-image: url("../img/contactpageIcon3.png");
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+
+
+.imgEmail {
+    float: left;
+    background-image: url("../img/contactpageIcon2.png");
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+
+.imgUser {
+    float: left;
+    background-image: url("../img/contactpageIcon5.png");
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+
+.userLabel {
+    float: left;
+    padding: 10px;
+}
+
+.userInfo {
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.mobNo {
+    float: left;
+}
+
+.mobileNumber {
+    margin-bottom: 4px;
+}
+
+.contactUsContainer {
+    width: 100%;
+}
+
+.mainImageAdd {
+    float: left;
+}
+
+.mainImageMob {
+    float: right;
 }
