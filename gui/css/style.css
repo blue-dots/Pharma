@@ -221,7 +221,7 @@ float: left;
     width: 100%;
 }
 
-#welcomePage {
+#welcomePage, #aboutUs {
     width: 80%;
     margin: 0 auto;
     overflow: hidden;
@@ -245,7 +245,18 @@ float: left;
     height: 100px;
     float: left;
     margin-top: 12px;
+    background-repeat: no-repeat;
+    background-size: 100px;
 }
+
+.welcomeIcon {
+    background-image: url("../img/Vision_icon.png");
+}
+
+.aboutUsIcon {
+    background-image: url("../img/About_Us.png");
+}
+
 .image-icon-enqry{
     height: 100px;
     width: 100px;
