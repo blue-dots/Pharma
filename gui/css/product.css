@@ -1,0 +1,67 @@
+
+.cp-pro-listing .cp-pro-item .cp-pro-img {
+    background: radial-gradient(circle, #ffffff, white, #f2f2f2);
+}
+
+.cp-pro-listing .cp-pro-item .cp-pro-img {
+    border-right: none;
+}
+
+.cp-pro-listing .cp-pro-item .cp-text {
+    border-left: 1px solid #ccc;
+}
+
+.cp-pro-item .cp-text .top {
+    float: none;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+
+.subLabel {
+    float: left;
+    margin-left: 12px;
+    line-height: 24px;
+    font-size: 13px;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.cp-pro-item .subLabel {
+    float: none;
+}
+
+.cp-pro-item:hover .subLabel {
+    color: #10b4ea
+}
+
+.compositionContainer, .indicationContainer, .dosageContainer {
+    position: relative;
+    margin-top: 11px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #666666;
+    padding-bottom: 11px;
+}
+
+.compositionHeaderLabel, .indicationHeaderLabel, .dosageHeaderLabel {
+    position: relative;
+}
+
+.compositionRow, .indicationRow, .dosageRow {
+    overflow: hidden;
+    position: relative;
+}
+
+.compositionLabel, .indicationLabel, .dosageLabel {
+    float: left;
+    width: 250px;
+}
+
+.compositionValue, .indicationValue, .dosageValue {
+    float: left;
+    margin-left: 100px;
+}
