@@ -8,18 +8,68 @@
     <div id="cp-banner-slider" class="owl-carousel">
         <div class="item">
             <img src="images/banner/banner-img-01.jpg" alt="">
+            <div class="cp-banner-content">
+                <div class="container">
+                    <div class="inner">
+                        <span class="btn-care">Best Care</span>
+                        <h1>We Care</h1>
+                        <h2>Pets Like Our Own Ones! </h2>
+                    </div>
+                </div>
+
+
         </div>
+         </div>
         <div class="item">
             <img src="images/banner/banner-img-02.jpg" alt="">
+            <div class="cp-banner-content">
+                <div class="container">
+                    <div class="inner">
+                        <span class="btn-care">Best Care</span>
+                        <h1>We Care</h1>
+                        <h2>Pets Like Our Own Ones! </h2>
+                    </div>
+                </div>
+
+
+            </div>
+
+
         </div>
 
         <div class="item">
             <img src="images/banner/banner-img-03.jpg" alt="">
 
+
+            <div class="cp-banner-content">
+                <div class="container">
+                    <div class="inner">
+                        <span class="btn-care">Best Care</span>
+                        <h1>We Care</h1>
+                        <h2>Pets Like Our Own Ones! </h2>
+                    </div>
+                </div>
+
+
+            </div>
+
         </div>
 
         <div class="item">
             <img src="images/banner/banner-img-04.jpg" alt="">
+
+            <div class="cp-banner-content">
+                <div class="container">
+                    <div class="inner">
+                        <span class="btn-care">Best Care</span>
+                        <h1>We Care</h1>
+                        <h2>Pets Like Our Own Ones! </h2>
+                    </div>
+                </div>
+
+
+            </div>
+
         </div>
 
 
