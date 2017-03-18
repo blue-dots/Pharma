@@ -21,6 +21,15 @@ body p {
     text-align: justify;
 }
 
+p1 {
+    font-family: 'Roboto', serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    margin: 0px;
+    color: #666666;
+}
+
 h1, h2, h3, h4, h5, h6, strong {
     font-family: 'Roboto', serif;
     color: #424242;
@@ -2302,6 +2311,7 @@ ul ul, ol ol {
     line-height: 24px;
     font-weight: 600;
     margin: 0 0 4px;
+    color: #10b4ea;
 }
 
 .cp-news-box .cp-text p {

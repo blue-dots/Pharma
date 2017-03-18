@@ -30,16 +30,8 @@
 <li class="dropdown"> <a href="index.php">Home</a></li>
 <li><a href="about.php">About Us</a></li>
 <li><a href="services.php">Services</a></li>
-<li class="dropdown"><a href="product-list.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Our Product <span class="caret"></span></a>
-<ul class="dropdown-menu">
-<li><a href="product.html">Veterinary Products</a></li>
-<li><a href="product-detail.html">Oral Veterinary Solution</a></li>
-<li><a href="product-sidebar.html">Products with Sidebar</a></li>
-<li><a href="product-listing.html">Products listing</a></li>
-<li><a href="product-list.php">Product List</a></li>
-<li><a href="checkout.html">Checkout</a></li>
-</ul>
-</li>
+<li><a href="product-list.php">Product</a></li>
+
 <li><a href="contact.php">Contact</a></li>
 </ul>
 <ul class="cp-social-links">
@@ -63,7 +55,7 @@
 <div class="col-md-2 col-sm-2">
  
 <strong class="cp-logo">
-<a href="index.html"><img src="images/cp-logo.png" alt=""></a>
+<a href="index.php"><img src="images/cp-logo.png" alt=""></a>
 </strong> 
 </div>
 <div class="col-md-10 col-sm-10">
@@ -82,26 +74,8 @@
 
 </li>
 <li><a href="services.php">Services</a></li>
-<li class="dropdown"><a href="product-list.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Our Product <span class="caret"></span></a>
-<div class="cp-mega-menu mega-col-1">
-<ul class="dropdown-menu">
-<li><a href="#">Antibiotics/Anti-ineffective</a></li>
-<li><a href="#">Devwormer/Parasiticide</a></li>
-<li><a href="#">Antiarrhoea And Intra Uterine</a></li>
-<li><a href="#">Multivitamin And Feed Supplements</a></li>
-<li><a href="Product-list.php">Product List</a></li>
-<li><a href="#">Checkout</a></li>
-</ul>
+<li><a href="product-list.php">Product</a></li>
 
-<div class="cp-mega-listed">
-<div class="cp-mega-item">
-<div class="cp-mega-img">
-<img src="images/mega-pro-img2.png" alt="">
-</div>
-</div>
-</div>
-</div>
-</li>
 
 <li><a href="contact.php">Contact</a></li>
 </ul>
