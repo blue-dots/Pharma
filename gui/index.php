@@ -436,14 +436,14 @@
                         <img src="images/pro1.png" alt="">
                     </figure>
                     <div class="cp-text">
-                        <span class="date">June 23, 2016</span>
-                        <h4><a href="#">The Best Fruits and Veggies for Dogs</a></h4>
 
-                        <p>Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit ac, libero.... <a
-                                href="#">{+}</a></p>
+                        <h4><span>ShriCalds</span></h4>
+
+                        <p1>(Feed Supplement Of Calcium With Vitamin D3,B12,Zinc Sulphate,Magnesium,Satavari And Biotin) <a
+                                href="#"></a></p1>
                         <ul class="cp-meta-listed">
-                            <li>Posted in: <span>Department</span></li>
-                            <li>Tags: <span>Quotes</span></li>
+                            <li>Presentation: <span>1liter, 5liter, 10liter, 20liter and 40liter.</span></li>
+
                         </ul>
                     </div>
                 </div>
@@ -455,14 +455,14 @@
                         <img src="images/pro2.png" alt="">
                     </figure>
                     <div class="cp-text">
-                        <span class="date">July 15, 2016</span>
-                        <h4><a href="#l">How your dog shows they love you</a></h4>
 
-                        <p>Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit ac, libero.... <a
-                                href="#">{+}</a></p>
+                        <h4><span>Uron Ab</span></h4>
+
+                        <p1>Indication:Uron Ab Bolus is Indicated For Prevention And Control Of Arobic And Anaerobic Bectorial Infection Of Uterus. <a
+                                href="#"></a></p1>
                         <ul class="cp-meta-listed">
-                            <li>Posted in: <span>Department</span></li>
-                            <li>Tags: <span>Quotes</span></li>
+                            <li>Presentation: <span>Strip Of 12 bolus & 50 Bolus Bottle</span></li>
+
                         </ul>
                     </div>
                 </div>
@@ -474,14 +474,14 @@
                         <img src="images/pro3.png" alt="">
                     </figure>
                     <div class="cp-text">
-                        <span class="date">Aug 10, 2016</span>
-                        <h4><a href="#">How to Soothe a Nervous Dog</a></h4>
 
-                        <p>Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit ac, libero.... <a
-                                href="#">{+}</a></p>
+                        <h4><span>Amazol-F</span></h4>
+
+                        <p1>Indication:Niclosamide Act Against Immature Amphistomes,Moniezia Spp In Sheep,Goat,Cattle & Buffaloes, <a
+                                href="#"></a></p1>
                         <ul class="cp-meta-listed">
-                            <li>Posted in: <span>Department</span></li>
-                            <li>Tags: <span>Quotes</span></li>
+                            <li>Presentation: <span>1 Liter</span></li>
+
                         </ul>
                     </div>
                 </div>
@@ -494,10 +494,10 @@
                     </figure>
                     <div class="cp-text">
 
-                        <h4><a href="#">ATN-3G</a></h4>
+                        <h4><span>ATN-3G</span></h4>
 
-                        <p>AN Ideal combination Of Antibiotics,Vitamins & mineral With Electrolyte.. <a
-                                href="blog-details.html">{+}</a></p>
+                        <p1>AN Ideal combination Of Antibiotics,Vitamins & mineral With Electrolyte. It Is Used For Treatment <a
+                                href="product-list.php"></a></p1>
                         <ul class="cp-meta-listed">
                             <li>Presentation: <span>100GM</span></li>
 
