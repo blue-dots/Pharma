@@ -212,7 +212,7 @@
 
                 <div class="cp-heading-style1_v2">
                     <h2>Our Product</h2>
-                    <a href="about.html" class="more-links">Know More</a>
+
                 </div>
             </div>
         </div>

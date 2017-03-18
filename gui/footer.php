@@ -2,138 +2,37 @@
 <footer class="cp-footer" id="cp-footer_v1">
 <section class="cp-ft-top-section pd-t100">
 <div class="container">
-<div class="col-md-3 col-sm-6">
+<div class="col-md-4 col-sm-6">
  
 <div class="widget">
 <h3>About Our Center</h3>
 <div class=" widget-author-inner">
-<div class="cp-round-img">
-<img src="images/widget-about-img.jpg" alt="">
-</div>
 <p>ATN Eterprise Was Established In The Year 2009 By Three Brothers Anant Biradar,Tanaji Biradar,And Narayan Biradar.</p>
 </div>
 </div> 
 </div>
-<div class="col-md-3 col-sm-6">
+<div class="col-md-4 col-sm-6">
  
 <div class="widget widget-recent-post">
-<h3>Recent posts</h3>
+<h3>Register Office</h3>
 <ul>
 <li>
-<div class="cp-recent-inner">
-<figure class="cp-thumb">
-<img src="images/recent-img-01.jpg" alt="">
-</figure>
-<div class="cp-text">
-<span class="date">May 21, 2016</span>
-<h5>Monday Morning </h5>
-</div>
-</div>
-</li>
-<li>
-<div class="cp-recent-inner">
-<figure class="cp-thumb">
-<img src="images/recent-img-02.jpg" alt="">
-</figure>
-<div class="cp-text">
-<span class="date">April 12, 2016</span>
-<h5>Monday Morning </h5>
-</div>
-</div>
-</li>
-<li>
-<div class="cp-recent-inner">
-<figure class="cp-thumb">
-<img src="images/recent-img-03.jpg" alt="">
-</figure>
-<div class="cp-text">
-<span class="date">July 21, 2016</span>
-<h5>Take A Tour </h5>
-</div>
-</div>
-</li>
-<li>
-<div class="cp-recent-inner">
-<figure class="cp-thumb">
-<img src="images/recent-img-04.jpg" alt="">
-</figure>
-<div class="cp-text">
-<span class="date">Aug 8, 2016</span>
-<h5>Monday Morning </h5>
-</div>
-</div>
+<p>Atn Biopharma,Shop No.16/17,subhash Park,
+Chintamani nagar,Handewadi Road,Hadapsar pune 411028.MH.India</p>
+<i class="fa fa-phone">+91-90-96-229-861</i>
 </li>
 </ul>
 </div> 
 </div>
-<div class="col-md-3 col-sm-6">
+<div class="col-md-4 col-sm-6">
  
 <div class="widget">
-<h3>Veterinary Topics</h3>
-<ul class="widget-listed">
-<li>- We Help Your Pet With</li>
-<li>- Video Newsroom</li>
-<li>- Choosing Your Pet</li>
-<li>- Finding Your Pet</li>
-<li>- Brining Your Pet Home</li>
-<li>- Living with Your Pet</li>
-<li>- Today’s Veterinarian</li>
-</ul>
+<h3>Work Office</h3>
+<p> ATN Biopharma Shreenath were Housing Co. Sr.No. 171/1/2,at Phursungi,
+Tal.Haveli,Dist.Pune-412308.MH,India</p>
+<i class="fa fa-phone">+91 020-26982491</i>
+
 </div> 
-</div>
-<div class="col-md-3 col-sm-6">
- 
-<div class="widget widget-instagram">
-<h3>Instagram </h3>
-<ul>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-01.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-02.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-03.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-04.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-05.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-06.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-07.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-08.jpg" alt=""></a>
-</figure>
-</li>
-<li>
-<figure class="cp-thumb">
-<a href="#"><img src="images/instagram-img-09.jpg" alt=""></a>
-</figure>
-</li>
-</ul>
-</div> 
-</div>
 </div>
 </section> 
  
@@ -142,16 +41,13 @@
  
 <nav class="cp-footer-nav">
 <ul>
-<li><a href="index.html">Home</a></li>
-<li><a href="about.html">about us</a></li>
-<li><a href="#">Departments</a></li>
-<li><a href="services.html">Services</a></li>
-<li><a href="product.html">Our Online Store</a></li>
-<li><a href="blog.html">Blog</a></li>
-<li><a href="contact.html">Contact</a></li>
+<li><a href="index.php">Home</a></li>
+<li><a href="about.php">about us</a></li>
+<li><a href="Product-list.php">Product</a></li>
+<li><a href="contact.php">Contact</a></li>
 </ul>
 </nav>
-<p>© 2016 Petcare <br> All Rights Reserved</p>
+<p>© 2017 ATN Biopharma <br> All Rights Reserved</p>
 </div>
 </section> 
 </footer>
