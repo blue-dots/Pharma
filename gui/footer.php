@@ -6,8 +6,8 @@
  
 <div class="widget">
 <h3>About Our Center</h3>
-<div class=" widget-author-inner">
-<p>ATN Eterprise Was Established In The Year 2009 By Three Brothers Anant Biradar,Tanaji Biradar,And Narayan Biradar.</p>
+<div class="p1">
+<p1>ATN Eterprise Was Established In The Year 2009 By Three Brothers Anant Biradar,Tanaji Biradar,And Narayan Biradar.</p1>
 </div>
 </div> 
 </div>
