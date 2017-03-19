@@ -21,7 +21,7 @@ body p {
     text-align: justify;
 }
 
-p1 {
+p {
     font-family: 'Roboto', serif;
     font-size: 16px;
     font-weight: 300;
@@ -4180,6 +4180,8 @@ ul ul, ol ol {
     margin: 0 0 30px;
     background-color: #fff;
     border: 1px solid #cccccc;
+    height: 277px;
+    overflow: hidden;
 }
 
 .cp-pro-item:hover {
@@ -5156,7 +5158,7 @@ input[type=text] + label:after, input[type=password] + label:after, input[type=e
 
 .widget-instagram {
     float: left;
-    ` width: 100%;
+    width: 100%;
 }
 
 .widget-instagram ul {
@@ -5478,7 +5480,6 @@ input[type=text] + label:after, input[type=password] + label:after, input[type=e
 .cp-ft-top-section {
     float: left;
     width: 100%;
-    background: url(../images/footer-before-img.png) no-repeat center center;
     background-size: cover;
     padding-bottom: 15px;
     overflow: hidden;
