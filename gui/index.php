@@ -100,7 +100,7 @@
                         Being The Sons Of A Dedicated Farmer,We Are Keen In Improving The Health Of Animal And Hence
                         Inspired To Provide "Health Care" Products To Animal And Poultry. </p>
 
-                    <a href="about.html" class="cp-btn-style1">Read More About Us</a>
+                    <a href="about.php" class="cp-btn-style1">Read More About Us</a>
                 </div>
             </div>
         </div>
@@ -351,14 +351,6 @@
                         <p>Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit ac, libero. Praesent
                             odio tellus, posuere sed, dictum sed, fermentum at, orcinc enim. Aiquam posuere sed, dictum
                             sed, ferm... <a href="team-detail.html">(+)</a></p>
-                        <ul class="cp-social-links">
-                            <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-phone-square" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
-                        </ul>
-                        <a href="team-detail.html" class="more-links">+ Know More</a>
                     </div>
                 </div>
             </div>
@@ -372,14 +364,6 @@
                         <p>Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit ac, libero. Praesent
                             odio tellus, posuere sed, dictum sed, fermentum at, orcinc enim. Aiquam posuere sed, dictum
                             sed, ferm... <a href="team-detail.html">(+)</a></p>
-                        <ul class="cp-social-links">
-                            <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-phone-square" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
-                        </ul>
-                        <a href="team-detail.html" class="more-links">+ Know More</a>
                     </div>
                     <figure class="cp-thumb">
                         <img src="images/blog-img-03.jpg" alt="">
@@ -399,14 +383,6 @@
                         <p>Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit ac, libero. Praesent
                             odio tellus, posuere sed, dictum sed, fermentum at, orcinc enim. Aiquam posuere sed, dictum
                             sed, ferm... <a href="team-detail.html">(+)</a></p>
-                        <ul class="cp-social-links">
-                            <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-phone-square" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
-                        </ul>
-                        <a href="team-detail.html" class="more-links">+ Know More</a>
                     </div>
                 </div>
             </div>
