@@ -158,7 +158,7 @@
                     <div class="cp-text">
                         <span class="icon-dog micon icon-box bg3"></span>
 
-                        <h3><a href="services.html">horse</a></h3>
+                        <h3><a href="services.html">Horse</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
@@ -175,7 +175,7 @@
                     <div class="cp-text">
                         <span class="icon-medical3 micon icon-box bg4"></span>
 
-                        <h3><a href="services.html">sheep</a></h3>
+                        <h3><a href="services.html">Sheep</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
@@ -192,7 +192,7 @@
                     <div class="cp-text">
                         <span class="icon-tool2 micon icon-box bg1"></span>
 
-                        <h3><a href="services.html">goat</a></h3>
+                        <h3><a href="services.html">Goat</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
@@ -208,7 +208,7 @@
                     <div class="cp-text">
                         <span class="icon-tool2 micon icon-box bg1"></span>
 
-                        <h3><a href="services.html">boiler (chiken)</a></h3>
+                        <h3><a href="services.html">Boiler (chiken)</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>

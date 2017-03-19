@@ -73,7 +73,7 @@
 <li class="dropdown"> <a href="about.php" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">About Us<span class="caret"></span></a>
 
 </li>
-<li><a href="services.php">Services</a></li>
+<li><a href="#">Services</a></li>
 <li><a href="product-list.php">Product</a></li>
 
 
