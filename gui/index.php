@@ -119,12 +119,12 @@
 
                 <article class="cp-services-item">
                     <figure class="cp-thumb">
-                        <img src="images/services-img-02.jpg" alt="">
+                        <img src="images/services-img-04.jpg" alt="">
                     </figure>
                     <div class="cp-text">
                         <span class="icon-tool2 micon icon-box bg1"></span>
 
-                        <h3><a href="services.html">Dental Care</a></h3>
+                        <h3><a href="services.html">Cow</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
@@ -136,12 +136,12 @@
 
                 <article class="cp-services-item">
                     <figure class="cp-thumb">
-                        <img src="images/services-img-01.jpg" alt="">
+                        <img src="images/buff.jpg" alt="">
                     </figure>
                     <div class="cp-text">
                         <span class="icon-tool micon icon-box bg2"></span>
 
-                        <h3><a href="services.html">Medicine</a></h3>
+                        <h3><a href="services.html">Buffalo</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
@@ -153,12 +153,12 @@
 
                 <article class="cp-services-item">
                     <figure class="cp-thumb">
-                        <img src="images/services-img-03.jpg" alt="">
+                        <img src="images/horse.jpg" alt="">
                     </figure>
                     <div class="cp-text">
                         <span class="icon-dog micon icon-box bg3"></span>
 
-                        <h3><a href="services.html">Pet Resort</a></h3>
+                        <h3><a href="services.html">horse</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
@@ -170,12 +170,12 @@
 
                 <article class="cp-services-item">
                     <figure class="cp-thumb">
-                        <img src="images/services-img-04.jpg" alt="">
+                        <img src="images/sheep1.jpg" alt="">
                     </figure>
                     <div class="cp-text">
                         <span class="icon-medical3 micon icon-box bg4"></span>
 
-                        <h3><a href="services.html">Vaccination</a></h3>
+                        <h3><a href="services.html">sheep</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
@@ -187,12 +187,28 @@
 
                 <article class="cp-services-item">
                     <figure class="cp-thumb">
-                        <img src="images/services-img-01.jpg" alt="">
+                        <img src="images/goat1.jpg" alt="">
                     </figure>
                     <div class="cp-text">
                         <span class="icon-tool2 micon icon-box bg1"></span>
 
-                        <h3><a href="services.html">Dental Care</a></h3>
+                        <h3><a href="services.html">goat</a></h3>
+
+                        <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
+                            sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
+                        </p>
+                    </div>
+                </article>
+            </div> <div class="item">
+
+                <article class="cp-services-item">
+                    <figure class="cp-thumb">
+                        <img src="images/chicken.jpg" alt="">
+                    </figure>
+                    <div class="cp-text">
+                        <span class="icon-tool2 micon icon-box bg1"></span>
+
+                        <h3><a href="services.html">boiler (chiken)</a></h3>
 
                         <p>Etiam dictum. Nunc enim. Sed massa tellus, aliquam rhoncus, venenatis quis, suscipit, didolor
                             sit amet justo et sit amet justo consectetuer adip elit.... <a href="services.html">{+}</a>
